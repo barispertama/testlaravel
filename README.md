@@ -21,6 +21,36 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## DOKUMENTASI APLIKASI
+
+halaman utama :
+![homepage](https://github.com/barispertama/testlaravel/assets/26850355/e0e6de9f-d06a-4606-a4c0-84a7be59101c)
+
+halaman register :
+![register](https://github.com/barispertama/testlaravel/assets/26850355/244bb1da-e777-4b42-9a1e-9f97a1036958)
+
+halaman login :
+![login](https://github.com/barispertama/testlaravel/assets/26850355/8cb36ba6-bf32-48eb-b85a-863129d8d872)
+
+halaman dashboard :
+![dashboard](https://github.com/barispertama/testlaravel/assets/26850355/80f9cad1-21e8-4d5c-a9f9-0bacad38e80e)
+
+fitur tambah data :
+![tambah-data](https://github.com/barispertama/testlaravel/assets/26850355/5be1aded-af0d-4540-90b6-11aec3fe2d4e)
+
+fitur edit data :
+![edit-data](https://github.com/barispertama/testlaravel/assets/26850355/64064107-1ff3-4314-af21-cc8f2388d15d)
+
+fitur delete data :
+![delete-data](https://github.com/barispertama/testlaravel/assets/26850355/0e13ab21-0fdc-4c78-89ef-19ee5af4fecb)
+
+fitur search data :
+![search-data](https://github.com/barispertama/testlaravel/assets/26850355/37eb58d9-81eb-4876-a6f6-41a6fb85f38e)
+
+Logout account :
+![logout-data](https://github.com/barispertama/testlaravel/assets/26850355/46fdb92d-a21e-41a1-b211-edfd6fdb14f4)
+
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
